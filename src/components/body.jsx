@@ -61,7 +61,9 @@ const Body = () => {
             services <br /> from various domains. Our aim is to aid you. As much
             we can.
           </p>
-          <button className="mt-16 p-3 w-56 text-white">LEARN MORE</button>
+          <button className="mt-16 p-3 w-56 text-white bg-[#E2342D]">
+            LEARN MORE
+          </button>
         </div>
         <img src={Cover} alt="" />
       </div>
